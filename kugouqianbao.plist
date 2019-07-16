@@ -11,31 +11,31 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://121.199.61.74/upload/atudou.ipa</string>
+					<string>http://47.97.173.85:9988/upload/kugouqianbao.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://121.199.61.74/upload/yd57.png</string>
+					<string>http://47.97.173.85:9988/upload/kugouqianbao57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://121.199.61.74/upload/yd512.png</string>
+					<string>http://47.97.173.85:9988/upload/kugouqianbao512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.TimeTech.Farm</string>
+				<string>com.HZATD.KuGouMoney</string>
 				<key>bundle-version</key>
 				<string>1.4</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>爱土豆</string>
+				<string>酷狗钱包</string>
 			</dict>
 		</dict>
 	</array>
