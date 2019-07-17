@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://47.97.173.85:9988/upload/kugouqianbao.ipa</string>
+					<string>http://47.96.142.235/upload/kugouqianbao.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://47.97.173.85:9988/upload/kugouqianbao57.png</string>
+					<string>http://47.96.142.235/upload/kugouqianbao57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://47.97.173.85:9988/upload/kugouqianbao512.png</string>
+					<string>http://47.96.142.235/upload/kugouqianbao512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
